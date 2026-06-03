@@ -101,6 +101,12 @@ The model expects review text as input and a human-written summary as the target
 - ROUGE scores are modest; further training with more data would improve quality
 - Maximum review length is limited to 512 tokens (T5-small constraint)
 
+## ☁️ Hugging Face Hub
+
+The trained model and tokenizer are available on the Hugging Face Hub:
+
+- **Model:** [MHKaungPyae/sentiment-model](https://huggingface.co/MHKaungPyae/sentiment-model)
+
 ## License
 
 This project is for educational and research purposes.
